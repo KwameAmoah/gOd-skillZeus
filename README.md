@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gOd-skillZeus
 - 👀 I’m interested in python, html, css, javascript
-- 🌱 I’m currently learning backend engineering at @altschoolafrica
+- 🌱 I’m currently studing to become a backend engineering at @altschoolafrica
 - 💞️ I’m looking to collaborate on every and any project to sharpen my skills so do reachout. new to this so get in involved.
 - 📫 How to reach me twitter: @kwameskillz, Mail: ingkwameamoah@gmail.com
 
